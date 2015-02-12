@@ -90,6 +90,26 @@ font-size: 50px;
 
 }
 
+.pg5{
+    background-color: #f39c12; 
+
+  /*background-image: url('back.jpg');*/
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+/* edits */
+  height:100%;
+  width: 100%;
+  position:relative;
+  z-index:1;
+  padding:5%;
+
+}
+
+img{
+width: 300px;
+}
+
 #footer{
 background-color: rgb(0,13,26);
 background-repeat: no-repeat; 
@@ -98,14 +118,13 @@ background-position: center;
 background-attachment: fixed;
 padding-top: 1px;
 padding-bottom: 1px;
+
 }
 
 #footer h2{
 color:rgb(59,252,52);
 font-size: 12px;
 text-align: center;
+
 }
 
-img{
-width: 300px;
-}
