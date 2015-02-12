@@ -128,3 +128,34 @@ text-align: center;
 
 }
 
+.final{
+    text-align: center;
+    background-color: #2ecc71;
+    background-repeat: no-repeat; 
+background-size: cover;
+background-position: center;
+background-attachment: fixed;
+padding-top: 1px;
+padding-bottom: 1px;
+}
+a:hover{
+color: rgb(59,252,52);
+font-size: 20px;
+text-decoration: none;
+-webkit-transition: all .5s ease;
+-moz-transition: all .5s ease;
+-ms-transition: all .5s ease;
+-o-transition: all .5s ease;
+transition: all .5s ease;
+}
+
+h2:hover{
+color: #ecf0f1;
+text-decoration: none;
+-webkit-transition: all .5s ease;
+-moz-transition: all .5s ease;
+-ms-transition: all .5s ease;
+-o-transition: all .5s ease;
+transition: all .5s ease;
+}
+
