@@ -49,6 +49,11 @@ color:#2c3e50;
 
 }
 
+#act{
+width:300px;
+  background: #9b59b6;
+  padding: 35px;
+}
 .pg3{
     background-color: #9b59b6; 
 
@@ -63,7 +68,11 @@ color:#2c3e50;
   z-index:1;
   padding:5%;
 }
-
+#war{
+width:350px;
+  background: #e74c3c;
+  padding: 35px;
+}
 .pg4{
     background-color: #e74c3c; 
 
@@ -94,3 +103,4 @@ color:rgb(59,252,52);
 font-size: 12px;
 text-align: center;
 }
+
